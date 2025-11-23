@@ -1,4 +1,4 @@
-import { ButtonProps } from "../interface/index.tsx -";
+import { ButtonProps } from "../interface/index.tsx";
 
 const Button = ({ buttonLabel, buttonSize, buttonBackgroundColor, action }: ButtonProps) => {
 
